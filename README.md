@@ -2,11 +2,11 @@
 An Advanced Login System Built With Html, Css, Javascript, PHP and MySql
 You Can Use This As A Boilerplate For Your Project
 
-# Advance Login System
+# 🔒 Advance Login System
 
 An advanced, secure and user-friendly login system that can be easily integrated into any web application.
 
-## Project Milestones
+## 🎯 Project Milestones
 
 1. **Design and development of the login system**
 - Design and implement a login system that allows users to create an account, log in, and log out.
@@ -41,7 +41,7 @@ An advanced, secure and user-friendly login system that can be easily integrated
 - Create documentation for the login system.
 - Release the login system as an open-source project on GitHub.
 
-## Features
+## 📚 Features
 
 - **Secure login**: Uses password hashing and validation to ensure that passwords are secure.
 - **Forgot password**: Allows users to reset their password if they forget it.
@@ -50,9 +50,9 @@ An advanced, secure and user-friendly login system that can be easily integrated
 - **Admin functionality**: Allows an admin user to manage other users and their data, as well as create or edit content in the application.
 - **Installation wizard**: Allows users to easily set up the login system on their server.
 - **Cross-browser compatibility**: Tested on different devices and browsers to ensure compatibility.
-- **Open-source**: The entire codebase is available on GitHub, allowing developers to contribute and make improvements to the project.
 
-## Contributions
+
+## 🚀Contributions
 
 We welcome contributions to this project! If you have any ideas or features you would like to add, please feel free to submit a pull request.
 
