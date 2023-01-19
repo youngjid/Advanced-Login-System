@@ -1,10 +1,6 @@
-# Advanced-Login-System
-An Advanced Login System Built With Html, Css, Javascript, PHP and MySql
-You Can Use This As A Boilerplate For Your Project
-
 # 🔒 Advance Login System
 
-An advanced, secure and user-friendly login system that can be easily integrated into any web application.
+An advanced, secure and user-friendly login system that can be easily integrated into any web application built With Html, Css, Javascript, PHP and MySql.
 
 ## 🎯 Project Milestones
 
