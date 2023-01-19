@@ -1,10 +1,11 @@
 # Advanced-Login-System
 An Advanced Login System Built With Html, Css, Javascript, PHP and MySql
 You Can Use This As A Boilerplate For Your Project
-Advance Login System
+
+# Advance Login System
 An advanced, secure and user-friendly login system that can be easily integrated into any web application.
 
-Project Milestones
+# Project Milestones
 Design and development of the login system
 Design and implement a login system that allows users to create an account, log in, and log out.
 Implement password hashing and validation to ensure that passwords are secure.
